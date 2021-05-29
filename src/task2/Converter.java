@@ -27,7 +27,7 @@ public class Converter {
 
 
     public void askUserFilteringColors(){
-
+        System.out.println("hello word");
     }
 
     public void changeImageColors(){
